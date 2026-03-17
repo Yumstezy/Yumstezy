@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hey, I'm Yumstezy
 
-<!--
-**Yumstezy/Yumstezy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2nd year CS student building real projects and learning by shipping.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **ClawLaunch** — desktop launcher for AI bots, built with Tauri + Rust + React. Runs on Mac and Windows, no terminal required.
+- **Pantry Tracker** — tracks pantry inventory, generates meal plans, and scans the web for new recipes based on your preferences.
+- **SAAS Lead Optimizer** — automates lead generation and optimization for sales pipelines.
+- **Chrome Extensions** — tools for crypto traders to scan and extract data from websites automatically.
+
+## Tech stack
+
+```
+Languages    Rust · TypeScript · JavaScript · Java · Node.js
+Frontend     React · Vite · CSS
+Desktop      Tauri
+Tools        Git · GitHub Actions · VS Code
+Learning     C++ · Cybersecurity
+```
+
+## Goals
+
+- Ship products that make money online
+- Break into cybersecurity analysis
+- Get deep into systems programming with C++ and Rust
+
+## Currently learning
+
+- Advanced Rust systems programming
+- C++ fundamentals
+- Cybersecurity concepts — networking, pen testing, threat analysis
+
+---
+
+> "The best way to learn is to build something real."
