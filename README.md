@@ -4,7 +4,7 @@
 
 ## What I'm working on
 
-- **ClawLaunch** — desktop launcher for AI bots, built with Tauri + Rust + React. Runs on Mac and Windows, no terminal required.
+- **ClawLaunch** — desktop launcher for ClawBot, built with Tauri + Rust + React. Runs on Mac and Windows, no terminal required.
 - **Pantry Tracker** — tracks pantry inventory, generates meal plans, and scans the web for new recipes based on your preferences.
 - **SAAS Lead Optimizer** — automates lead generation and optimization for sales pipelines.
 - **Chrome Extensions** — tools for crypto traders to scan and extract data from websites automatically.
