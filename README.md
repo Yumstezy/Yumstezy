@@ -5,7 +5,7 @@
 ## What I'm working on
 
 - [Split](https://hackatonsplit.vercel.app) · private expense splitting on Solana 🔒
-- **ClawLaunch** — desktop launcher for ClawBot, built with Tauri + Rust + React. Runs on Mac and Windows, no terminal required.
+- [ClawLaunch](https://github.com/Yumstezy/ClawLaunch) · desktop launcher for ClawBot, built with Tauri + Rust + React
 - **Pantry Tracker** — tracks pantry inventory, generates meal plans, and scans the web for new recipes based on your preferences.
 - **SAAS Lead Optimizer** — automates lead generation and optimization for sales pipelines.
 - **Chrome Extensions** — tools for crypto traders to scan and extract data from websites automatically.
