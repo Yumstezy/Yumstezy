@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,50:1d4ed8,100:0ea5e9&height=160&section=header&text=Yumstezy&fontSize=40&fontColor=e2e8f0&fontAlignY=35&desc=CS+Student+%C2%B7+Security+%26+Systems+%C2%B7+Building+in+Public&descAlignY=58&descSize=14" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1e293b,50:1d4ed8,100:0ea5e9&amp;height=160&amp;section=header&amp;text=Yumstezy&amp;fontSize=40&amp;fontColor=e2e8f0&amp;fontAlignY=35&amp;desc=CS+Student+%C2%B7+Security+%26+Systems+%C2%B7+Building+in+Public&amp;descAlignY=58&amp;descSize=14" width="100%" />
 
 <div align="center">
 
@@ -47,14 +47,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yumstezy&show_icons=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=7dd3fc&text_color=94a3b8&ring_color=1d4ed8" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yumstezy&layout=compact&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&langs_count=6" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=Yumstezy&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=38bdf8&amp;icon_color=7dd3fc&amp;text_color=94a3b8&amp;ring_color=1d4ed8" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yumstezy&amp;layout=compact&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=38bdf8&amp;text_color=94a3b8&amp;langs_count=6" height="160" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Yumstezy&hide_border=true&background=0f172a&ring=1d4ed8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=64748b&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=475569" />
+<img src="https://streak-stats.demolab.com?user=Yumstezy&amp;hide_border=true&amp;background=0f172a&amp;ring=1d4ed8&amp;fire=38bdf8&amp;currStreakLabel=38bdf8&amp;sideLabels=64748b&amp;currStreakNum=e2e8f0&amp;sideNums=e2e8f0&amp;dates=475569" />
 
 </div>
 
@@ -66,4 +66,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1d4ed8,100:1e293b&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0ea5e9,50:1d4ed8,100:1e293b&amp;height=100&amp;section=footer" width="100%" />
