@@ -16,10 +16,10 @@
 
 | | |
 |---|---|
-| **[Everything Everywhere All At Once](https://everything-everywhere-all-at-once.vercel.app)** ![](https://img.shields.io/badge/live-0369a1?style=flat-square&labelColor=0f172a) | 80+ browser-native tools. Includes steganography, JWT analysis, AES encryption, QR tools. `Next.js` `TypeScript` `WebAssembly` |
-| **Split** ![](https://img.shields.io/badge/shipped-0369a1?style=flat-square&labelColor=0f172a) | Private expense splitting on Solana. `Rust` `Solana` `TypeScript` |
-| **ClawLaunch** ![](https://img.shields.io/badge/shipped-0369a1?style=flat-square&labelColor=0f172a) | Desktop launcher built with Tauri. `Rust` `React` |
-| **Chrome Extensions** ![](https://img.shields.io/badge/shipped-0369a1?style=flat-square&labelColor=0f172a) | Data extraction tools for crypto traders. `JavaScript` `Chrome APIs` |
+| **[Everything Everywhere All At Once](https://everything-everywhere-all-at-once.vercel.app)** <img src="https://img.shields.io/badge/live-0369a1?style=flat-square&amp;labelColor=0f172a" alt="live" /> | 80+ browser-native tools. Steganography, JWT analysis, AES encryption, QR tools. `Next.js` `TypeScript` `WebAssembly` |
+| **Split** <img src="https://img.shields.io/badge/shipped-0369a1?style=flat-square&amp;labelColor=0f172a" alt="shipped" /> | Private expense splitting on Solana. `Rust` `Solana` `TypeScript` |
+| **ClawLaunch** <img src="https://img.shields.io/badge/shipped-0369a1?style=flat-square&amp;labelColor=0f172a" alt="shipped" /> | Desktop launcher built with Tauri. `Rust` `React` |
+| **Chrome Extensions** <img src="https://img.shields.io/badge/shipped-0369a1?style=flat-square&amp;labelColor=0f172a" alt="shipped" /> | Data extraction tools for crypto traders. `JavaScript` `Chrome APIs` |
 
 ---
 
