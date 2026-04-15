@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1e293b,50:1d4ed8,100:0ea5e9&amp;height=160&amp;section=header&amp;text=Yumstezy&amp;fontSize=40&amp;fontColor=e2e8f0&amp;fontAlignY=35&amp;desc=CS+Student+%C2%B7+Security+%26+Systems+%C2%B7+Building+in+Public&amp;descAlignY=58&amp;descSize=14" width="100%" />
 
-<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=500&lines=security+%26+systems+programming;penetration+testing+%7C+threat+analysis;Rust+%C2%B7+TypeScript+%C2%B7+C%2B%2B;building+tools+that+matter)](https://git.io/typing-svg)
 
