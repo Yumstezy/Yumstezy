@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&lines=penetration+testing+%7C+threat+analysis;security+%26+systems+programming;Rust+%C2%B7+TypeScript+%C2%B7+C%2B%2B;building+tools+that+matter)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=16&amp;pause=1200&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=520&amp;lines=penetration+testing+%7C+threat+analysis;security+%26+systems+programming;Rust+%C2%B7+TypeScript+%C2%B7+C%2B%2B;building+tools+that+matter" alt="Typing SVG" /></a>
 
 </div>
 
@@ -37,7 +37,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=rust,cpp,ts,js,linux,bash,react,nextjs,nodejs,git,github,vscode&theme=dark&perline=6)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=rust,cpp,ts,js,linux,bash,react,nextjs,nodejs,git,github,vscode&amp;theme=dark&amp;perline=6" alt="My Skills" />
 
 </div>
 
@@ -62,7 +62,7 @@
 
 <div align="center">
 
-[![Everything Everywhere All At Once](https://img.shields.io/badge/latest_project-everything--everywhere--all--at--once.vercel.app-1d4ed8?style=flat-square&labelColor=0f172a)](https://everything-everywhere-all-at-once.vercel.app)
+<a href="https://everything-everywhere-all-at-once.vercel.app"><img src="https://img.shields.io/badge/latest_project-everything--everywhere--all--at--once.vercel.app-1d4ed8?style=flat-square&amp;labelColor=0f172a" alt="Everything Everywhere All At Once" /></a>
 
 </div>
 
