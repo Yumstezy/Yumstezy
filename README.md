@@ -17,8 +17,8 @@
 | | |
 |---|---|
 | **[Everything Everywhere All At Once](https://everything-everywhere-all-at-once.vercel.app)** | 80+ browser-native tools. Steganography, JWT analysis, AES-256, QR. `Next.js` `TypeScript` `WebAssembly` |
-| **Split** | Private expense splitting on Solana. `Rust` `Solana` `TypeScript` |
-| **ClawLaunch** | Desktop launcher built with Tauri. `Rust` `React` |
+| **[Split](https://hackatonsplit.vercel.app)** | Private expense splitting on Solana. `Rust` `Solana` `TypeScript` |
+| **[ClawLaunch](https://github.com/Yumstezy/ClawLaunch)** | Desktop launcher built with Tauri. `Rust` `React` |
 | **Chrome Extensions** | Data extraction tools for crypto traders. `JavaScript` `Chrome APIs` |
 
 ---
