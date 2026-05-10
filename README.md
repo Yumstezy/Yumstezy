@@ -1,4 +1,4 @@
-# Yumstezy
+# Hi, I'm Ian 👋
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1400&color=38BDF8&center=true&vCenter=true&width=520&lines=security+%26+systems+programming;ML+pipelines+%7C+threat+analysis;Rust+%C2%B7+TypeScript+%C2%B7+Python" alt="Typing SVG" /></a>
 
@@ -9,14 +9,14 @@ I ship across security software, ML systems, and consumer products.
 
 ---
 
-**featured**
+**Pinned**
 
 |  |  |
 | --- | --- |
-| **[Aurum](https://github.com/Yumstezy/CSUHackathon2026)** 🏆 | AI corn yield forecasting, 4–5 months ahead of USDA. Won CSU Hackathon 2026. `Python` `XGBoost` `NASA HLS` `AWS` |
+| **[Aurum](https://github.com/Yumstezy/CSUHackathon2026)**  | AI corn yield forecasting, 4–5 months ahead of USDA. Won CSU Hackathon 2026. `Python` `XGBoost` `NASA HLS` `AWS` |
 | **[Gone Phishin'](https://gonephishin.tech)** | Anti-phishing Chrome extension built for parents and grandparents. Live on the Chrome Web Store. `TypeScript` `MV3` `Next.js` `Drizzle` |
 
-**projects**
+**Past projects**
 
 |  |  |
 | --- | --- |
