@@ -1,8 +1,5 @@
 # Hi, I'm Ian 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1400&color=38BDF8&center=true&vCenter=true&width=520&lines=security+%26+systems+programming;ML+pipelines+%7C+threat+analysis;Rust+%C2%B7+TypeScript+%C2%B7+Python" alt="Typing SVG" /></a>
-
-
 2nd year CS student at Colorado State (Networking & Security).
 I ship across security software, ML systems, and consumer products.
 
@@ -25,7 +22,7 @@ I ship across security software, ML systems, and consumer products.
 | **[ClawLaunch](https://github.com/Yumstezy/ClawLaunch)** | Desktop launcher built with Tauri. `Rust` `React` |
 | **Chrome Extensions** | Data extraction tools for crypto traders. `JavaScript` `Chrome APIs` |
 
-**also building**
+**also worked on**
 
 Founder — Palm Supplements (CPG, 2022–2024) · Co-Founder — [DID Records](https://www.linkedin.com/company/did-records/) (indie label, EU ↔ US) · Co-Founder — BRILL (touring duo)
 
