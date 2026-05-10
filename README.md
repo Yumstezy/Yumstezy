@@ -5,8 +5,7 @@
 
 2nd year CS student at Colorado State (Networking & Security).
 I ship across security software, ML systems, and consumer products.
-Recently won the **CSU Hackathon 2026** — presenting **Aurum** to NASA and USDA in Washington, D.C.
-I learn by shipping.
+
 
 ---
 
