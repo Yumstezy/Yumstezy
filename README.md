@@ -1,49 +1,52 @@
 # Yumstezy
 
-<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1400&color=38BDF8&center=true&vCenter=true&width=520&lines=security+%26+systems+programming;ML+pipelines+%7C+threat+analysis;Rust+%C2%B7+TypeScript+%C2%B7+Python" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=15&amp;pause=1400&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=480&amp;lines=security+%26+systems+programming;penetration+testing+%7C+threat+analysis;Rust+%C2%B7+TypeScript+%C2%B7+C%2B%2B" alt="Typing SVG" /></a>
 
-</div>
-
-<br/>
-
-2nd year CS student. Focused on **cybersecurity** and **systems programming** — working toward security analysis and offensive security. I learn by shipping.
+2nd year CS student at Colorado State (Networking & Security).
+I ship across security software, ML systems, and consumer products.
+Recently won the **CSU Hackathon 2026** — presenting **Aurum** to NASA and USDA in Washington, D.C.
+I learn by shipping.
 
 ---
 
+**featured**
+
+|  |  |
+| --- | --- |
+| **[Aurum](https://github.com/Yumstezy/CSUHackathon2026)** 🏆 | AI corn yield forecasting, 4–5 months ahead of USDA. Won CSU Hackathon 2026. `Python` `XGBoost` `NASA HLS` `AWS` |
+| **[Gone Phishin'](https://gonephishin.tech)** | Anti-phishing Chrome extension built for parents and grandparents. Live on the Chrome Web Store. `TypeScript` `MV3` `Next.js` `Drizzle` |
+
 **projects**
 
-| | |
-|---|---|
+|  |  |
+| --- | --- |
 | **[Everything Everywhere All At Once](https://everything-everywhere-all-at-once.vercel.app)** | 80+ browser-native tools. Steganography, JWT analysis, AES-256, QR. `Next.js` `TypeScript` `WebAssembly` |
 | **[Split](https://hackatonsplit.vercel.app)** | Private expense splitting on Solana. `Rust` `Solana` `TypeScript` |
 | **[ClawLaunch](https://github.com/Yumstezy/ClawLaunch)** | Desktop launcher built with Tauri. `Rust` `React` |
 | **Chrome Extensions** | Data extraction tools for crypto traders. `JavaScript` `Chrome APIs` |
 
+**also building**
+
+Founder — Palm Supplements (CPG, 2022–2024) · Co-Founder — [DID Records](https://www.linkedin.com/company/did-records/) (indie label, EU ↔ US) · Co-Founder — BRILL (touring duo)
+
 ---
 
 **stack**
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=rust,cpp,ts,js,linux,bash,react,nextjs,nodejs,git,github,vscode&amp;theme=dark&amp;perline=6" alt="stack" />
-
-</div>
+[![stack](https://skillicons.dev/icons?i=rust,ts,js,py,java,solidity,linux,bash,react,nextjs,nodejs,tauri,aws,postgres,git,github,vscode&theme=dark&perline=8)](https://skillicons.dev)
 
 ---
 
 **stats**
 
-<div align="center">
+[![](https://github-readme-stats.vercel.app/api?username=Yumstezy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=7dd3fc&text_color=94a3b8&ring_color=1d4ed8)](https://github.com/Yumstezy)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yumstezy&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&langs_count=6)](https://github.com/Yumstezy)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yumstezy&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=38bdf8&amp;icon_color=7dd3fc&amp;text_color=94a3b8&amp;ring_color=1d4ed8" height="155" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yumstezy&amp;layout=compact&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=38bdf8&amp;text_color=94a3b8&amp;langs_count=6" height="155" />
+[![](https://streak-stats.demolab.com?user=Yumstezy&hide_border=true&background=0d1117&ring=1d4ed8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=475569&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=475569)](https://github.com/Yumstezy)
 
-</div>
+---
 
-<div align="center">
+**reach me**
 
-<img src="https://streak-stats.demolab.com?user=Yumstezy&amp;hide_border=true&amp;background=0d1117&amp;ring=1d4ed8&amp;fire=38bdf8&amp;currStreakLabel=38bdf8&amp;sideLabels=475569&amp;currStreakNum=e2e8f0&amp;sideNums=e2e8f0&amp;dates=475569" />
-
-</div>
+[ianartbarrie@gmail.com](mailto:ianartbarrie@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ian-barrie-b25675333/)
