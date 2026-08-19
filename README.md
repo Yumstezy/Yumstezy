@@ -1,6 +1,6 @@
 # Hi, I'm Ian 👋
 
-2nd year CS student at Colorado State (Networking & Security).
+3rd year CS student at CSU (Networking & Security).
 I ship across security software, ML systems, and consumer products.
 
 
