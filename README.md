@@ -1,7 +1,7 @@
 # Hi, I'm Ian 👋
 
 3rd year CS student at CSU (Networking & Security).
-I ship across security software, ML systems, and consumer products.
+across security software, ML systems, and consumer products.
 
 
 ---
