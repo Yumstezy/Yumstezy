@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="121" height="38" viewBox="0 0 121 38">
-  <style>text { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }</style>
-  <defs><linearGradient id="b" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b131a"/><stop offset="1" stop-color="#060a0e"/></linearGradient></defs>
-  <rect x="0.5" y="0.5" width="120" height="37" rx="19" fill="url(#b)" stroke="#1e2c36"/>
-  <text x="18" y="24" font-size="14"><tspan fill="#7ee0b5">~</tspan><tspan fill="#e3f3f8" dx="8">linkedin</tspan></text>
-</svg>
