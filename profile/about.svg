@@ -14,7 +14,7 @@
     @keyframes drift { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-12px); } }
     @keyframes sway { 0%, 100% { transform: rotate(-5deg); } 50% { transform: rotate(5deg); } }
     @keyframes ray { 0%, 100% { opacity: .55; } 50% { opacity: 1; } }
- @keyframes rise { 0% { transform: translate(0, 0); opacity: 0; } 8% { opacity: 1; } 50% { transform: translate(6px, -75px); } 85% { opacity: .9; } 100% { transform: translate(0, -150px); opacity: 0; } }</style>
+ </style>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b131a"/><stop offset="1" stop-color="#080d12"/></linearGradient>
     <clipPath id="win"><rect x="0.5" y="0.5" width="879" height="149" rx="14"/></clipPath>
@@ -35,14 +35,13 @@
   </defs>
   <rect x="0.5" y="0.5" width="879" height="149" rx="14" fill="url(#bg)"/>
   <g clip-path="url(#win)">
-    <circle cx="850" cy="21" r="0.7" fill="#ad9fd6" class="tw" style="animation-delay:-0.7s;animation-duration:3.0s"/>
-  <circle cx="547" cy="129" r="1.4" fill="#ad9fd6" class="tw" style="animation-delay:-3.2s;animation-duration:3.4s"/>
-  <circle cx="564" cy="120" r="0.7" fill="#ad9fd6" class="tw" style="animation-delay:-2.7s;animation-duration:4.4s"/>
-  <circle cx="421" cy="34" r="1.4" fill="#ad9fd6" class="tw" style="animation-delay:-0.3s;animation-duration:4.9s"/>
-  <circle cx="632" cy="71" r="1.3" fill="#7fbccd" class="tw" style="animation-delay:-2.5s;animation-duration:2.9s"/>
-  <circle cx="118" cy="30" r="1.5" fill="#7fbccd" class="tw" style="animation-delay:-2.1s;animation-duration:4.0s"/>
-    <g class="bub" style="animation-duration:11.5s;animation-delay:-7.0s"><circle cx="689" cy="159" r="5.4" fill="#cfefff" fill-opacity=".05" stroke="#cfefff" stroke-opacity=".3" stroke-width="1.1"/><circle cx="687.5" cy="157.3" r="1.2" fill="#ffffff" fill-opacity=".35"/></g>
-  <g class="bub" style="animation-duration:15.8s;animation-delay:-5.5s"><circle cx="306" cy="161" r="6.7" fill="#cfefff" fill-opacity=".05" stroke="#cfefff" stroke-opacity=".3" stroke-width="1.1"/><circle cx="303.5" cy="158.2" r="1.5" fill="#ffffff" fill-opacity=".35"/></g>
+    <circle cx="527" cy="24" r="1.2" fill="#7fbccd" class="tw" style="animation-delay:-3.3s;animation-duration:4.0s"/>
+  <circle cx="69" cy="37" r="1.0" fill="#ad9fd6" class="tw" style="animation-delay:-3.3s;animation-duration:4.0s"/>
+  <circle cx="418" cy="25" r="1.1" fill="#ad9fd6" class="tw" style="animation-delay:-1.7s;animation-duration:3.3s"/>
+  <circle cx="133" cy="109" r="1.3" fill="#ad9fd6" class="tw" style="animation-delay:-2.9s;animation-duration:2.9s"/>
+  <circle cx="28" cy="136" r="1.1" fill="#7fbccd" class="tw" style="animation-delay:-2.4s;animation-duration:4.8s"/>
+  <circle cx="663" cy="49" r="1.2" fill="#7fbccd" class="tw" style="animation-delay:-2.4s;animation-duration:3.2s"/>
+    
   </g>
   <rect x="0.5" y="0.5" width="879" height="149" rx="14" fill="none" stroke="#1b2731"/>
   <path d="M450 28 V122" stroke="#1b2731" stroke-opacity=".6"/>
