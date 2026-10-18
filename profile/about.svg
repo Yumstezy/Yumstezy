@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="150" viewBox="0 0 880 150">
+  <style>
+    text { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+    .t { fill: #cfdee5; } .s { fill: #8fa9b6; } .d { fill: #56707d; }
+    .c { fill: #7fbccd; } .p { fill: #86c2a4; } .gold { fill: #cfb57d; } .lil { fill: #ad9fd6; }
+    .cur { opacity: .55; }
+    .bub { animation-name: rise; animation-timing-function: linear; animation-iteration-count: infinite; }
+    .tw { opacity: .3; }
+    .drift { animation: drift 7s ease-in-out infinite; }
+    .sway { transform-box: fill-box; transform-origin: 50% 0%; animation: sway 3s ease-in-out infinite; }
+    .ray { animation: ray 9s ease-in-out infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @keyframes tw { 0%, 100% { opacity: .12; } 50% { opacity: .85; } }
+    @keyframes drift { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-12px); } }
+    @keyframes sway { 0%, 100% { transform: rotate(-5deg); } 50% { transform: rotate(5deg); } }
+    @keyframes ray { 0%, 100% { opacity: .55; } 50% { opacity: 1; } }
+ @keyframes rise { 0% { transform: translate(0, 0); opacity: 0; } 8% { opacity: 1; } 50% { transform: translate(6px, -75px); } 85% { opacity: .9; } 100% { transform: translate(0, -150px); opacity: 0; } }</style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b131a"/><stop offset="1" stop-color="#080d12"/></linearGradient>
+    <clipPath id="win"><rect x="0.5" y="0.5" width="879" height="149" rx="14"/></clipPath>
+    
+    <radialGradient id="jbell" cx="50%" cy="80%" r="70%">
+      <stop offset="0" stop-color="#ad9fd6" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#7fbccd" stop-opacity=".15"/>
+    </radialGradient>
+    <symbol id="jf" viewBox="-5 0 50 90" overflow="visible">
+      <g class="sway" fill="none" stroke="#ad9fd6" stroke-opacity=".45" stroke-width="1.4" stroke-linecap="round">
+        <path d="M9 22 q-5 12 0 24 q5 12 0 24 q-4 8 0 14"/>
+        <path d="M16 23 q4 10 0 20 q-4 10 0 20"/>
+        <path d="M24 23 q-4 10 0 20 q4 10 0 20"/>
+        <path d="M31 22 q5 12 0 24 q-5 12 0 24 q4 8 0 14"/>
+      </g>
+      <path d="M1 22 Q1 1 20 1 Q39 1 39 22 Q34 26 29.5 22 Q25 26 20 22 Q15 26 10.5 22 Q6 26 1 22Z" fill="url(#jbell)" stroke="#7fbccd" stroke-opacity=".5"/>
+    </symbol>
+  </defs>
+  <rect x="0.5" y="0.5" width="879" height="149" rx="14" fill="url(#bg)"/>
+  <g clip-path="url(#win)">
+    <circle cx="850" cy="21" r="0.7" fill="#ad9fd6" class="tw" style="animation-delay:-0.7s;animation-duration:3.0s"/>
+  <circle cx="547" cy="129" r="1.4" fill="#ad9fd6" class="tw" style="animation-delay:-3.2s;animation-duration:3.4s"/>
+  <circle cx="564" cy="120" r="0.7" fill="#ad9fd6" class="tw" style="animation-delay:-2.7s;animation-duration:4.4s"/>
+  <circle cx="421" cy="34" r="1.4" fill="#ad9fd6" class="tw" style="animation-delay:-0.3s;animation-duration:4.9s"/>
+  <circle cx="632" cy="71" r="1.3" fill="#7fbccd" class="tw" style="animation-delay:-2.5s;animation-duration:2.9s"/>
+  <circle cx="118" cy="30" r="1.5" fill="#7fbccd" class="tw" style="animation-delay:-2.1s;animation-duration:4.0s"/>
+    <g class="bub" style="animation-duration:11.5s;animation-delay:-7.0s"><circle cx="689" cy="159" r="5.4" fill="#cfefff" fill-opacity=".05" stroke="#cfefff" stroke-opacity=".3" stroke-width="1.1"/><circle cx="687.5" cy="157.3" r="1.2" fill="#ffffff" fill-opacity=".35"/></g>
+  <g class="bub" style="animation-duration:15.8s;animation-delay:-5.5s"><circle cx="306" cy="161" r="6.7" fill="#cfefff" fill-opacity=".05" stroke="#cfefff" stroke-opacity=".3" stroke-width="1.1"/><circle cx="303.5" cy="158.2" r="1.5" fill="#ffffff" fill-opacity=".35"/></g>
+  </g>
+  <rect x="0.5" y="0.5" width="879" height="149" rx="14" fill="none" stroke="#1b2731"/>
+  <path d="M450 28 V122" stroke="#1b2731" stroke-opacity=".6"/>
+    <text x="30" y="40" class="d" font-size="12" letter-spacing="2">STACK</text>
+  <text x="30" y="68" class="c" font-size="14">c++&#160;&#160;python&#160;&#160;java&#160;&#160;typescript</text>
+  <text x="30" y="90" class="c" font-size="14">rust&#160;&#160;sql&#160;&#160;aws&#160;&#160;databricks</text>
+  <text x="30" y="112" class="c" font-size="14">postgresql&#160;&#160;docker&#160;&#160;linux&#160;&#160;nix</text>
+  <text x="480" y="40" class="d" font-size="12" letter-spacing="2">NOW</text>
+  <text x="480" y="68" font-size="14"><tspan class="lil">building</tspan><tspan x="580" class="s">jellyfish</tspan></text>
+  <text x="480" y="90" font-size="14"><tspan class="lil">learning</tspan><tspan x="580" class="s">c++, deeper</tspan></text>
+  <text x="480" y="112" font-size="14"><tspan class="lil">studying</tspan><tspan x="580" class="s">aws solutions architect</tspan></text>
+</svg>
