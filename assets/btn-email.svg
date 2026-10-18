@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="94" height="38" viewBox="0 0 94 38">
+  <style>
+    text { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+    .p { fill: #7ee787; }
+    .b { fill: #79c0ff; }
+    .w { fill: #e6edf3; }
+    .g { fill: #8b949e; }
+    .y { fill: #f0b72f; }
+    .cur { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <rect x="0.5" y="0.5" width="93" height="37" rx="8" fill="#0d1117" stroke="#30363d"/>
+  <text x="16" y="24" font-size="14"><tspan class="p">&gt;</tspan><tspan class="w" dx="8">email</tspan></text>
+</svg>

@@ -1,39 +1,24 @@
 <p align="center">
-  <img src="./header.svg" width="100%" alt="ian@barrie.dev terminal" />
+  <img src="./assets/header.svg" width="100%" alt="ian@barrie.dev neofetch" />
 </p>
 
-### `~/projects`
-
-**[aurum](https://github.com/Yumstezy/CSUHackathon2026)**
-Forecasts corn yields across 263 counties 4 to 5 months before the USDA does, using NASA satellite imagery. Won the NASA & USDA challenge at CSU Hackathon 2026. Hit 0.789 R² after I caught and fixed a data leak.
-<sub>`python` `xgboost` `aws s3` `sagemaker` `databricks` `next.js`</sub>
-
-**[gone-phishin](https://gonephishin.tech)**
-Chrome extension that stops older users from clicking phishing links, with a dashboard so family can keep an eye on things. Live on the Chrome Web Store.
-<sub>`typescript` `react` `next.js` `postgresql`</sub>
-
-**[brkt-battle](https://brktbattle.com)**
-1v1 tournament platform with live brackets, a leaderboard, and prize payouts in SOL.
-<sub>`typescript` `next.js` `node.js` `postgresql` `solana`</sub>
-
-**jellyfish**
-My own Linux distro, built as one reproducible Nix flake with a desktop shell written from scratch. Still in progress.
-<sub>`nix` `nixos` `wayland` `systemd`</sub>
-
-### `~/stack`
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,ts,rust,react,nextjs,nodejs,postgres,aws,docker,linux,nix,git" alt="stack" />
+<p align="center">
+  <a href="https://github.com/Yumstezy/CSUHackathon2026"><img src="./assets/aurum.svg" width="49%" alt="aurum" /></a>
+  <a href="https://gonephishin.tech"><img src="./assets/gone-phishin.svg" width="49%" alt="gone-phishin'" /></a>
 </p>
 
-### `~/now`
+<p align="center">
+  <a href="https://brktbattle.com"><img src="./assets/brkt-battle.svg" width="49%" alt="brkt-battle" /></a>
+  <img src="./assets/jellyfish.svg" width="49%" alt="jellyfish" />
+</p>
 
-```
-building    jellyfish
-learning    c++, deeper
-studying    aws solutions architect associate
-```
+<p align="center">
+  <img src="./assets/about.svg" width="100%" alt="stack, now, contact" />
+</p>
 
-### `~/contact`
-
-[barrie.dev](https://www.barrie.dev/) &nbsp;/&nbsp; [linkedin](https://www.linkedin.com/in/ian-barrie-b25675333/) &nbsp;/&nbsp; ianartbarrie@gmail.com
+<p align="center">
+  <a href="https://www.barrie.dev/"><img src="./assets/btn-web.svg" height="38" alt="barrie.dev" /></a>
+  <a href="https://www.linkedin.com/in/ian-barrie-b25675333/"><img src="./assets/btn-linkedin.svg" height="38" alt="linkedin" /></a>
+  <a href="mailto:ianartbarrie@gmail.com"><img src="./assets/btn-email.svg" height="38" alt="email" /></a>
+  <a href="https://github.com/Yumstezy/CSUHackathon2026"><img src="./assets/btn-github.svg" height="38" alt="aurum repo" /></a>
+</p>

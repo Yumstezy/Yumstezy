@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="300" viewBox="0 0 880 300">
+  <style>
+    text { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+    .p { fill: #7ee787; }
+    .b { fill: #79c0ff; }
+    .w { fill: #e6edf3; }
+    .g { fill: #8b949e; }
+    .y { fill: #f0b72f; }
+    .cur { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <rect x="0.5" y="0.5" width="879" height="299" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <path d="M0.5 32 H879.5" stroke="#30363d"/>
+  <circle cx="20" cy="16" r="5.5" fill="#ff5f57"/><circle cx="38" cy="16" r="5.5" fill="#febc2e"/><circle cx="56" cy="16" r="5.5" fill="#28c840"/>
+  <text x="440.0" y="21" text-anchor="middle" class="g" font-size="12">~/about</text>
+  <path d="M446 50 V252" stroke="#21262d"/>
+    <text x="24" y="66" font-size="14"><tspan class="p">$</tspan><tspan class="w"> ls ~/stack</tspan></text>
+  <text x="24" y="92" class="b" font-size="14" font-weight="700">c++&#160;&#160;python&#160;&#160;java&#160;&#160;typescript</text>
+  <text x="24" y="114" class="b" font-size="14" font-weight="700">rust&#160;&#160;sql&#160;&#160;aws&#160;&#160;databricks</text>
+  <text x="24" y="136" class="b" font-size="14" font-weight="700">postgresql&#160;&#160;docker&#160;&#160;linux&#160;&#160;nix</text>
+  <text x="24" y="176" font-size="14"><tspan class="p">$</tspan><tspan class="w"> cat ~/now.txt</tspan></text>
+  <text x="24" y="202" font-size="14" xml:space="preserve"><tspan class="y">building</tspan><tspan x="120" class="g">jellyfish</tspan></text>
+  <text x="24" y="224" font-size="14" xml:space="preserve"><tspan class="y">learning</tspan><tspan x="120" class="g">c++, deeper</tspan></text>
+  <text x="24" y="246" font-size="14" xml:space="preserve"><tspan class="y">studying</tspan><tspan x="120" class="g">aws solutions architect</tspan></text>
+  <text x="470" y="66" font-size="14"><tspan class="p">$</tspan><tspan class="w"> contact --list</tspan></text>
+  <text x="470" y="92" font-size="14" xml:space="preserve"><tspan class="b">web</tspan><tspan x="566" class="g">barrie.dev</tspan></text>
+  <text x="470" y="114" font-size="14" xml:space="preserve"><tspan class="b">linkedin</tspan><tspan x="566" class="g">in/ian-barrie-b25675333</tspan></text>
+  <text x="470" y="136" font-size="14" xml:space="preserve"><tspan class="b">email</tspan><tspan x="566" class="g">ianartbarrie@gmail.com</tspan></text>
+  <text x="470" y="158" font-size="14" xml:space="preserve"><tspan class="b">github</tspan><tspan x="566" class="g">github.com/Yumstezy</tspan></text>
+  <text x="470" y="198" font-size="14"><tspan class="p">$</tspan><tspan class="w"> echo $STATUS</tspan></text>
+  <text x="470" y="224" class="g" font-size="14">open to Summer 2027</text>
+  <text x="470" y="246" class="g" font-size="14">SWE internships</text>
+  <text x="24" y="282" font-size="14"><tspan class="p">$</tspan></text>
+  <rect x="40" y="269" width="8" height="16" fill="#e6edf3" class="cur"/>
+</svg>
