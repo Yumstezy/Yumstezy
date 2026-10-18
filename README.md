@@ -1,48 +1,39 @@
-# Hi, I'm Ian 👋
+<p align="center">
+  <img src="./header.svg" width="100%" alt="ian@barrie.dev terminal" />
+</p>
 
-3rd year CS student at CSU (Networking & Security).
-across security software, ML systems, and consumer products.
+### `~/projects`
 
+**[aurum](https://github.com/Yumstezy/CSUHackathon2026)**
+Forecasts corn yields across 263 counties 4 to 5 months before the USDA does, using NASA satellite imagery. Won the NASA & USDA challenge at CSU Hackathon 2026. Hit 0.789 R² after I caught and fixed a data leak.
+<sub>`python` `xgboost` `aws s3` `sagemaker` `databricks` `next.js`</sub>
 
----
+**[gone-phishin](https://gonephishin.tech)**
+Chrome extension that stops older users from clicking phishing links, with a dashboard so family can keep an eye on things. Live on the Chrome Web Store.
+<sub>`typescript` `react` `next.js` `postgresql`</sub>
 
-**Pinned**
+**[brkt-battle](https://brktbattle.com)**
+1v1 tournament platform with live brackets, a leaderboard, and prize payouts in SOL.
+<sub>`typescript` `next.js` `node.js` `postgresql` `solana`</sub>
 
-|  |  |
-| --- | --- |
-| **[Aurum](https://github.com/Yumstezy/CSUHackathon2026)**  | AI corn yield forecasting, 4–5 months ahead of USDA. Won CSU Hackathon 2026. `Python` `XGBoost` `NASA HLS` `AWS` |
-| **[Gone Phishin'](https://gonephishin.tech)** | Anti-phishing Chrome extension built for parents and grandparents. Live on the Chrome Web Store. `TypeScript` `MV3` `Next.js` `Drizzle` |
+**jellyfish**
+My own Linux distro, built as one reproducible Nix flake with a desktop shell written from scratch. Still in progress.
+<sub>`nix` `nixos` `wayland` `systemd`</sub>
 
-**Past projects**
+### `~/stack`
 
-|  |  |
-| --- | --- |
-| **[Everything Everywhere All At Once](https://everything-everywhere-all-at-once.vercel.app)** | 80+ browser-native tools. Steganography, JWT analysis, AES-256, QR. `Next.js` `TypeScript` `WebAssembly` |
-| **[Split](https://hackatonsplit.vercel.app)** | Private expense splitting on Solana. `Rust` `Solana` `TypeScript` |
-| **[ClawLaunch](https://github.com/Yumstezy/ClawLaunch)** | Desktop launcher built with Tauri. `Rust` `React` |
-| **Chrome Extensions** | Data extraction tools for crypto traders. `JavaScript` `Chrome APIs` |
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,ts,rust,react,nextjs,nodejs,postgres,aws,docker,linux,nix,git" alt="stack" />
+</p>
 
-**also worked on**
+### `~/now`
 
-Founder — Palm Supplements (CPG, 2022–2024) · Co-Founder — [DID Records](https://www.linkedin.com/company/did-records/) (indie label, EU ↔ US) · Co-Founder — BRILL (touring duo)
+```
+building    jellyfish
+learning    c++, deeper
+studying    aws solutions architect associate
+```
 
----
+### `~/contact`
 
-**stack**
-
-[![stack](https://skillicons.dev/icons?i=rust,ts,js,py,java,solidity,linux,bash,react,nextjs,nodejs,tauri,aws,postgres,git,github,vscode&theme=dark&perline=8)](https://skillicons.dev)
-
----
-
-**stats**
-
-[![](https://github-readme-stats.vercel.app/api?username=Yumstezy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=7dd3fc&text_color=94a3b8&ring_color=1d4ed8)](https://github.com/Yumstezy)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yumstezy&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&langs_count=6)](https://github.com/Yumstezy)
-
-[![](https://streak-stats.demolab.com?user=Yumstezy&hide_border=true&background=0d1117&ring=1d4ed8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=475569&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=475569)](https://github.com/Yumstezy)
-
----
-
-**reach me**
-
-[ianartbarrie@gmail.com](mailto:ianartbarrie@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ian-barrie-b25675333/)
+[barrie.dev](https://www.barrie.dev/) &nbsp;/&nbsp; [linkedin](https://www.linkedin.com/in/ian-barrie-b25675333/) &nbsp;/&nbsp; ianartbarrie@gmail.com
